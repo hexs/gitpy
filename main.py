@@ -22,5 +22,3 @@ push = repo.git.push('origin main')
 print(push)
 print('- -' * 30)
 
-# pull = repo.git.pull()
-# print(pull)
